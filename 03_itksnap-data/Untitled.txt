@@ -1,0 +1,138 @@
+Label Id	Label Name	Number Of Voxels	Volume (mm^3)	Image mean (1004_3)	Image stdev (1004_3)
+0	Clear Label	6658743	6.65874e+06	250.955	483.882
+4	3rd Ventricle	745	745	514.872	124.122
+11	4th Ventricle	2774	2774	343.772	153.969
+23	Right Accumbens Area	582	582	889.153	61.1495
+30	Left Accumbens Area	692	692	873.629	68.6821
+31	Right Amygdala	1146	1146	832.256	86.9894
+32	Left Amygdala	1113	1113	848.17	82.3947
+35	Brain Stem	23070	23070	1127.08	120.556
+36	Right Caudate	4197	4197	919.797	105.72
+37	Left Caudate	4003	4003	910.863	99.2519
+38	Right Cerebellum Exterior	67452	67452	836.615	131.768
+39	Left Cerebellum Exterior	66326	66326	835.117	126.584
+40	Right Cerebellum White Matter	17388	17388	1238.43	96.5625
+41	Left Cerebellum White Matter	17336	17336	1236.59	97.4039
+44	Right Cerebral White Matter	264219	264219	1346.6	122.935
+45	Left Cerebral White Matter	259688	259688	1332.08	116.823
+46	CSF	1192	1192	475.805	138.594
+47	Right Hippocampus	4672	4672	845.274	108.256
+48	Left Hippocampus	4488	4488	839.571	108.713
+49	Right Inf Lat Vent	288	288	626.913	117.456
+50	Left Inf Lat Vent	234	234	645.094	141.105
+51	Right Lateral Ventricle	5920	5920	485.878	209.426
+52	Left Lateral Ventricle	6641	6641	493.442	211.638
+55	Right Pallidum	1675	1675	1264.21	55.0762
+56	Left Pallidum	1602	1602	1259.06	66.3383
+57	Right Putamen	5087	5087	1052.25	75.0498
+58	Left Putamen	5343	5343	1045.31	80.623
+59	Right Thalamus Proper	9364	9364	1086.47	150.807
+60	Left Thalamus Proper	9726	9726	1093.05	155.208
+61	Right Ventral DC	6113	6113	1153.82	199.394
+62	Left Ventral DC	6301	6301	1164.51	189.09
+63	Right vessel	45	45	710.4	108.315
+64	Left vessel	38	38	744.289	102.146
+69	Optic Chiasm	70	70	1022.03	209.765
+71	Cerebellar Vermal Lobules I-V	6387	6387	829.142	163.204
+72	Cerebellar Vermal Lobules VI-VII	2049	2049	788.262	151.929
+73	Cerebellar Vermal Lobules VIII-X	3912	3912	837.786	134.999
+75	Left Basal Forebrain	525	525	827.863	119.966
+76	Right Basal Forebrain	644	644	879.994	118.223
+100	Right ACgG  anterior cingulate gyrus	4926	4926	775.657	133.769
+101	Left ACgG  anterior cingulate gyrus	6794	6794	782.833	138.821
+102	Right AIns  anterior insula	5796	5796	813.316	122.459
+103	Left AIns  anterior insula	6364	6364	799.412	126.442
+104	Right AOrG  anterior orbital gyrus	1934	1934	780.26	133.54
+105	Left AOrG  anterior orbital gyrus	2185	2185	775.951	133.443
+106	Right AnG   angular gyrus	12412	12412	848.764	150.195
+107	Left AnG   angular gyrus	10147	10147	833.17	161.014
+108	Right Calc  calcarine cortex	4676	4676	898.903	164.955
+109	Left Calc  calcarine cortex	4589	4589	890.256	157.361
+112	Right CO    central operculum	6491	6491	814.233	141.808
+113	Left CO    central operculum	4943	4943	833.204	142.321
+114	Right Cun   cuneus	7618	7618	889.005	166.547
+115	Left Cun   cuneus	7576	7576	884.503	159.811
+116	Right Ent   entorhinal area	2527	2527	809.643	125.637
+117	Left Ent   entorhinal area	1857	1857	813.229	123.641
+118	Right FO    frontal operculum	2497	2497	809.441	132.518
+119	Left FO    frontal operculum	3238	3238	809.007	132.988
+120	Right FRP   frontal pole	4331	4331	792.361	151.448
+121	Left FRP   frontal pole	3882	3882	781.268	146.923
+122	Right FuG   fusiform gyrus	11054	11054	787.234	143.03
+123	Left FuG   fusiform gyrus	10617	10617	803.017	132.207
+124	Right GRe   gyrus rectus	2827	2827	772.162	146.14
+125	Left GRe   gyrus rectus	3164	3164	751.392	147.003
+128	Right IOG   inferior occipital gyrus	7744	7744	875.479	149.505
+129	Left IOG   inferior occipital gyrus	8242	8242	849.443	147.908
+132	Right ITG   inferior temporal gyrus	15372	15372	801.466	140.821
+133	Left ITG   inferior temporal gyrus	16601	16601	779.704	145.36
+134	Right LiG   lingual gyrus	11249	11249	866.558	144.343
+135	Left LiG   lingual gyrus	10379	10379	857.64	148.393
+136	Right LOrG  lateral orbital gyrus	3105	3105	790.351	139.275
+137	Left LOrG  lateral orbital gyrus	1992	1992	780.557	133.964
+138	Right MCgG  middle cingulate gyrus	5717	5717	786.791	142.502
+139	Left MCgG  middle cingulate gyrus	6136	6136	796.11	145.746
+140	Right MFC   medial frontal cortex	2040	2040	769.07	129.563
+141	Left MFC   medial frontal cortex	2359	2359	767.262	131.269
+142	Right MFG   middle frontal gyrus	20120	20120	813.386	144.825
+143	Left MFG   middle frontal gyrus	21656	21656	819.762	145.781
+144	Right MOG   middle occipital gyrus	6310	6310	855.267	160.23
+145	Left MOG   middle occipital gyrus	7684	7684	848.332	158.954
+146	Right MOrG  medial orbital gyrus	4821	4821	809.584	129.792
+147	Left MOrG  medial orbital gyrus	5129	5129	741.658	144.261
+148	Right MPoG  postcentral gyrus medial segment	1253	1253	846.097	168.051
+149	Left MPoG  postcentral gyrus medial segment	1290	1290	846.711	177.877
+150	Right MPrG  precentral gyrus medial segment	3233	3233	866.409	161.088
+151	Left MPrG  precentral gyrus medial segment	3800	3800	853.164	162.435
+152	Right MSFG  superior frontal gyrus medial segment	12041	12041	806.551	140.245
+153	Left MSFG  superior frontal gyrus medial segment	9515	9515	810.281	139.604
+154	Right MTG   middle temporal gyrus	19892	19892	833.745	135.571
+155	Left MTG   middle temporal gyrus	15774	15774	799.627	142.134
+156	Right OCP   occipital pole	3624	3624	918.203	169.308
+157	Left OCP   occipital pole	3557	3557	890.516	170.647
+160	Right OFuG  occipital fusiform gyrus	3941	3941	861.879	142.31
+161	Left OFuG  occipital fusiform gyrus	6412	6412	860.189	144.376
+162	Right OpIFG opercular part of the inferior frontal gyrus	4464	4464	819.367	146.778
+163	Left OpIFG opercular part of the inferior frontal gyrus	4329	4329	833.245	135.387
+164	Right OrIFG orbital part of the inferior frontal gyrus	2477	2477	809.013	131.979
+165	Left OrIFG orbital part of the inferior frontal gyrus	1317	1317	820.622	130.88
+166	Right PCgG  posterior cingulate gyrus	4816	4816	835.993	136.25
+167	Left PCgG  posterior cingulate gyrus	5959	5959	815.326	148.4
+168	Right PCu   precuneus	14166	14166	842.781	149.279
+169	Left PCu   precuneus	13777	13777	826.444	152.788
+170	Right PHG   parahippocampal gyrus	3118	3118	810.599	137.821
+171	Left PHG   parahippocampal gyrus	3611	3611	817.822	138.264
+172	Right PIns  posterior insula	3132	3132	820.532	128.546
+173	Left PIns  posterior insula	3015	3015	829.081	126.795
+174	Right PO    parietal operculum	2978	2978	816.723	155.651
+175	Left PO    parietal operculum	5038	5038	835.095	141.484
+176	Right PoG   postcentral gyrus	12782	12782	860.988	177.797
+177	Left PoG   postcentral gyrus	14634	14634	859.277	174.27
+178	Right POrG  posterior orbital gyrus	3328	3328	801.276	129.825
+179	Left POrG  posterior orbital gyrus	3245	3245	778.487	137.279
+180	Right PP    planum polare	2853	2853	838.447	141.418
+181	Left PP    planum polare	2736	2736	833.001	133.833
+182	Right PrG   precentral gyrus	15533	15533	870.796	160.693
+183	Left PrG   precentral gyrus	13479	13479	882.568	164.55
+184	Right PT    planum temporale	3652	3652	843.172	149.873
+185	Left PT    planum temporale	5104	5104	833.356	146.118
+186	Right SCA   subcallosal area	1284	1284	829.167	116.274
+187	Left SCA   subcallosal area	1439	1439	762.872	133.496
+190	Right SFG   superior frontal gyrus	17107	17107	836.633	141.965
+191	Left SFG   superior frontal gyrus	17390	17390	829.554	145.923
+192	Right SMC   supplementary motor cortex	7333	7333	834.188	148.642
+193	Left SMC   supplementary motor cortex	7195	7195	836.24	146.269
+194	Right SMG   supramarginal gyrus	11114	11114	849.102	152.414
+195	Left SMG   supramarginal gyrus	13827	13827	844.152	153.205
+196	Right SOG   superior occipital gyrus	4634	4634	901.308	172.176
+197	Left SOG   superior occipital gyrus	5779	5779	882.204	160.37
+198	Right SPL   superior parietal lobule	14025	14025	852.886	165.354
+199	Left SPL   superior parietal lobule	12291	12291	844.772	164.304
+200	Right STG   superior temporal gyrus	9288	9288	845.143	139.499
+201	Left STG   superior temporal gyrus	9218	9218	822.703	141.42
+202	Right TMP   temporal pole	10480	10480	705.36	146.339
+203	Left TMP   temporal pole	11907	11907	731.474	137.808
+204	Right TrIFG triangular part of the inferior frontal gyrus	4242	4242	829.769	140.989
+205	Left TrIFG triangular part of the inferior frontal gyrus	5725	5725	825.592	144.373
+206	Right TTG   transverse temporal gyrus	1784	1784	846.794	154.179
+207	Left TTG   transverse temporal gyrus	2397	2397	868.091	155.753

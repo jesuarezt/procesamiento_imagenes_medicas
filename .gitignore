@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#ignore data
+*.zip
+
+#ignore data project gloucuma
+proyecto_glucoma/data/
