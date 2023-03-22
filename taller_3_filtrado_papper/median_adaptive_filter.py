@@ -156,7 +156,7 @@ median_adaptive_filter_imgae = itk.GetImageFromArray(data_final)
 output_path = output_path
 itk.imwrite(median_adaptive_filter_imgae, output_path)
 
-median_adaptive_filter
+#median_adaptive_filter
 ## example run 
 ## python median_adaptive_filter.py  data/t1_icbm_normal_1mm_pn0_rf20.mnc.gz  output_data/median_adaptive_filer_t1_icbm_normal_1mm_pn0_rf20.nii 
 ## python median_adaptive_filter.py  data/t1_icbm_normal_1mm_pn1_rf20.mnc.gz  output_data/median_adaptive_filer_t1_icbm_normal_1mm_pn1_rf20.nii 
