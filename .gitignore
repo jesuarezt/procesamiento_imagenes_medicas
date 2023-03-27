@@ -131,6 +131,10 @@ dmypy.json
 
 #ignore data
 *.zip
+*.nii
+*.gz
+*.mnc
+
 
 #ignore data project gloucuma
 proyecto_glucoma/data/
